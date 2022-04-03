@@ -143,7 +143,7 @@ Let's consider a different scenario:
 
 ~~~bash
 $ touch test4.md
-$ git add test4.md && git commit -m "Create fifth file"
+$ git add test4.md && git commit -m 'Create fifth file'
 $ git push origin main
 $ git log
 ~~~
